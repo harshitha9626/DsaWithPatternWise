@@ -1,2 +1,52 @@
-# DsaWithPatternWise
-Daily Data Structures and Algorithms practice in Java | LeetCode solutions organized by patterns
+# DSA with Java 🚀
+
+This repository contains my daily **Data Structures and Algorithms** practice using **Java**.
+
+I am solving problems pattern-wise to improve my problem-solving skills and prepare for coding interviews and placements.
+
+## Topics Covered
+
+* Arrays
+* Strings
+* Two Pointers
+* Sliding Window
+* Hashing
+* Recursion
+* Linked List
+* Stack and Queue
+* Binary Search
+* Trees
+* Graphs
+* Dynamic Programming
+
+## Repository Structure
+
+```text
+DSA-Java/
+├── Arrays/
+├── Strings/
+├── TwoPointers/
+├── SlidingWindow/
+├── Hashing/
+└── README.md
+```
+
+## Problem Format
+
+Each solution includes:
+
+* Problem name
+* Approach / Pattern used
+* Time Complexity
+* Space Complexity
+
+## Goal
+
+* Practice DSA consistently
+* Learn problem-solving patterns
+* Solve LeetCode problems
+* Prepare for placements
+
+## Language Used
+
+Java
