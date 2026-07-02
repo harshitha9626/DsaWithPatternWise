@@ -1,0 +1,9 @@
+import java.util.Arrays;
+
+class Solution {
+    public int secondLargest(int[] arr) {
+        Arrays.sort(arr);
+
+        return arr[arr.length - 2];
+    }
+}
