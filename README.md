@@ -61,4 +61,12 @@ Java
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0026-remove-duplicates-from-sorted-array) |
+## String
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3499-maximize-active-section-with-trade-i) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
