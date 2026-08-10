@@ -81,4 +81,32 @@ Java
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Math
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1510-stone-game-iv) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
