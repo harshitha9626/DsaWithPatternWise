@@ -59,6 +59,7 @@ Java
 | [0015-3sum](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,4 +110,8 @@ Java
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1510-stone-game-iv) |
+## Hash Table
+|  |
+| ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3471-find-the-largest-almost-missing-integer) |
 <!---LeetCode Topics End-->
