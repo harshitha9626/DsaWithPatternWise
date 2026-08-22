@@ -88,6 +88,7 @@ Java
 | ------- |
 | [1510-stone-game-iv](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1510-stone-game-iv) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
