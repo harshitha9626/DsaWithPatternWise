@@ -69,6 +69,7 @@ Java
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0020-valid-parentheses) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
@@ -133,4 +134,12 @@ Java
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
