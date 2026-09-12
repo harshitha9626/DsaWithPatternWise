@@ -61,6 +61,7 @@ Java
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1872-stone-game-viii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -84,6 +85,7 @@ Java
 | ------- |
 | [0015-3sum](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0015-3sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Java
 | [0115-distinct-subsequences](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0115-distinct-subsequences) |
 | [1510-stone-game-iv](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
 | ------- |
@@ -134,6 +137,7 @@ Java
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
