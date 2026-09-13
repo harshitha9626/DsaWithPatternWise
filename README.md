@@ -58,6 +58,7 @@ Java
 | ------- |
 | [0015-3sum](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0835-image-overlap](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0835-image-overlap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1872-stone-game-viii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -166,4 +167,8 @@ Java
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
