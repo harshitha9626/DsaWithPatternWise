@@ -188,4 +188,8 @@ Java
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
