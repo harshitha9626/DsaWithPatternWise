@@ -174,6 +174,7 @@ Java
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
@@ -191,5 +192,6 @@ Java
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
