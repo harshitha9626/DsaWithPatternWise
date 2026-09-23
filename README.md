@@ -58,6 +58,7 @@ Java
 | ------- |
 | [0015-3sum](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0229-majority-element-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0229-majority-element-ii) |
 | [0835-image-overlap](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0835-image-overlap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1872-stone-game-viii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1872-stone-game-viii) |
@@ -88,6 +89,7 @@ Java
 |  |
 | ------- |
 | [0015-3sum](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0015-3sum) |
+| [0229-majority-element-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0229-majority-element-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
@@ -140,6 +142,7 @@ Java
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0229-majority-element-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -194,4 +197,12 @@ Java
 | ------- |
 | [0206-reverse-linked-list](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0237-delete-node-in-a-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
