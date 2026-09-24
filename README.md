@@ -74,6 +74,7 @@ Java
 | ------- |
 | [0015-3sum](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0141-linked-list-cycle) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
@@ -147,6 +148,7 @@ Java
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0229-majority-element-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -201,6 +203,7 @@ Java
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0237-delete-node-in-a-linked-list) |
 ## Counting
@@ -216,4 +219,8 @@ Java
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0219-contains-duplicate-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
