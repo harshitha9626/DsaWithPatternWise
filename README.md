@@ -78,6 +78,7 @@ Java
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0115-distinct-subsequences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -145,6 +146,7 @@ Java
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0229-majority-element-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -212,5 +214,6 @@ Java
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
