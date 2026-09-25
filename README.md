@@ -82,6 +82,7 @@ Java
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0115-distinct-subsequences) |
+| [1096-brace-expansion-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
@@ -94,6 +95,7 @@ Java
 | ------- |
 | [0015-3sum](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0229-majority-element-ii) |
+| [1096-brace-expansion-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
@@ -151,6 +153,7 @@ Java
 | [0141-linked-list-cycle](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0229-majority-element-ii) |
+| [1096-brace-expansion-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1096-brace-expansion-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -174,6 +177,7 @@ Java
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -223,4 +227,12 @@ Java
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0141-linked-list-cycle) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
