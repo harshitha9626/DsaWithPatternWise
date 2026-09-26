@@ -63,6 +63,7 @@ Java
 | [0229-majority-element-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0229-majority-element-ii) |
 | [0835-image-overlap](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0835-image-overlap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -84,6 +85,7 @@ Java
 | [0020-valid-parentheses](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0115-distinct-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
@@ -155,6 +157,7 @@ Java
 | [0219-contains-duplicate-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0229-majority-element-ii) |
 | [1096-brace-expansion-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
