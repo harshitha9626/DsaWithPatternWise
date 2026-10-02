@@ -61,6 +61,7 @@ Java
 | [0039-combination-sum](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0039-combination-sum) |
 | [0219-contains-duplicate-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0229-majority-element-ii) |
+| [0384-shuffle-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0384-shuffle-an-array) |
 | [0835-image-overlap](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0835-image-overlap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -112,6 +113,7 @@ Java
 ## Math
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0384-shuffle-an-array) |
 | [0836-rectangle-overlap](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1510-stone-game-iv) |
@@ -253,4 +255,12 @@ Java
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1096-brace-expansion-ii) |
+## Design
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0384-shuffle-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
