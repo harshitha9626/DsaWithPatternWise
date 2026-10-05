@@ -84,6 +84,7 @@ Java
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0115-distinct-subsequences) |
@@ -116,6 +117,7 @@ Java
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0012-integer-to-roman) |
 | [0384-shuffle-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0384-shuffle-an-array) |
 | [0836-rectangle-overlap](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -165,6 +167,7 @@ Java
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0229-majority-element-ii) |
