@@ -63,6 +63,7 @@ Java
 | [0229-majority-element-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0229-majority-element-ii) |
 | [0384-shuffle-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0384-shuffle-an-array) |
 | [0835-image-overlap](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1254-number-of-closed-islands) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1872-stone-game-viii) |
@@ -253,6 +254,7 @@ Java
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Geometry
 |  |
@@ -304,6 +306,7 @@ Java
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1254-number-of-closed-islands) |
 ## Design
 |  |
 | ------- |
@@ -320,4 +323,12 @@ Java
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
