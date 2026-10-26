@@ -78,6 +78,7 @@ Java
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -256,6 +257,7 @@ Java
 | [0835-image-overlap](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Geometry
 |  |
 | ------- |
@@ -307,6 +309,7 @@ Java
 | [0301-remove-invalid-parentheses](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
 | ------- |
@@ -327,8 +330,10 @@ Java
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
