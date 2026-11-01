@@ -62,6 +62,7 @@ Java
 | [0219-contains-duplicate-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0229-majority-element-ii) |
 | [0384-shuffle-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0384-shuffle-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1254-number-of-closed-islands) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -137,6 +138,7 @@ Java
 | ------- |
 | [0012-integer-to-roman](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0012-integer-to-roman) |
 | [0384-shuffle-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0384-shuffle-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1510-stone-game-iv) |
