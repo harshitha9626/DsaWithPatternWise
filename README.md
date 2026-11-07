@@ -69,6 +69,7 @@ Java
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1882-process-tasks-using-servers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/2747-count-zero-request-servers) |
@@ -138,6 +139,7 @@ Java
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
