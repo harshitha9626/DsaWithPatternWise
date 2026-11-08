@@ -66,6 +66,7 @@ Java
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1267-count-servers-that-communicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1872-stone-game-viii) |
@@ -278,6 +279,7 @@ Java
 | ------- |
 | [0835-image-overlap](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3665-twisted-mirror-path-count) |
@@ -308,6 +310,7 @@ Java
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0229-majority-element-ii) |
+| [1267-count-servers-that-communicate](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -335,6 +338,7 @@ Java
 | [0301-remove-invalid-parentheses](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
@@ -356,10 +360,12 @@ Java
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
