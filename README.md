@@ -79,6 +79,7 @@ Java
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3364-minimum-positive-sum-subarray](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3483-unique-3-digit-even-numbers) |
@@ -273,6 +274,7 @@ Java
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/1872-stone-game-viii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3364-minimum-positive-sum-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -325,6 +327,7 @@ Java
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/0219-contains-duplicate-ii) |
 | [2747-count-zero-request-servers](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshitha9626/DsaWithPatternWise/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Floyd's Cycle Finding Algorithm
 |  |
